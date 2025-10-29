@@ -6,9 +6,9 @@
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 1,
-  
-  "harvestCoin": true,
-  "claimHouse": true,
-  "buySeed": true,
-  "buyBoost": true
+
+  "harvestPlants": true,
+  "harvestHouseCoin": true,
+  "buySeeds": true,
+  "buyBoosts": true
 }
