@@ -1,1 +1,14 @@
-
+{
+  "proxyMode": "round",
+  "rotateProxy": false,
+  "skipInvalidProxy": true,
+  "proxyRotationInterval": 2,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 1,
+  
+  "harvestCoin": true,
+  "claimHouse": true,
+  "buySeed": true,
+  "buyBoost": true
+}
