@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  appleville:
+    build:
+      context: .
+    container_name: appleville
+    restart: unless-stopped
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=production
+    stdin_open: true
+    tty: true
