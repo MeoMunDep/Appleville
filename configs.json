@@ -3,6 +3,7 @@
   "rotateProxy": false,
   "skipInvalidProxy": true,
   "proxyRotationInterval": 2,
+
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 1,
@@ -10,5 +11,6 @@
   "harvestPlants": true,
   "harvestHouseCoin": true,
   "buySeeds": true,
+  "plantSeeds": true,
   "buyBoosts": true
 }
