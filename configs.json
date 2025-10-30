@@ -12,7 +12,25 @@
   "harvestPlants": true,
   "plantSeeds": true,
   "buySeeds": true,
-  "buyBoosts": true,
+  "buyBoosts": {
+    "enable": true,
+    "random": true,
+    "boosts": {
+      "fertiliser": 1,
+      "silver-tonic": 1,
+      "super-fertiliser": 1,
+      "golden-tonic": 1,
+      "deadly-mix": 1,
+      "quantum-fertilizer": 1,
+      "potion-of-gains": 1,
+      "elixir-of-degens": 1,
+      "giga-brew": 1,
+      "wild-growth": 1,
+      "warp-time-elixir": 1,
+      "titans-growth": 1,
+      "apex-potion": 1
+    }
+  },
 
   "spin": {
     "enable": true,
