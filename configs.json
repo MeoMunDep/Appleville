@@ -11,7 +11,29 @@
   "harvestHouseCoin": true,
   "harvestPlants": true,
   "plantSeeds": true,
-  "buySeeds": true,
+
+  "buySeeds": {
+    "wheat": 1,
+    "lettuce": 1,
+    "carrot": 1,
+    "tomato": 1,
+    "onion": 1,
+    "strawberry": 1,
+    "pumpkin": 1,
+    "golden-apple": 1,
+    "crystal-apple": 1,
+    "diamond-apple": 1,
+    "platinum-apple": 1,
+    "royal-apple": 1,
+    "legacy-apple": 1,
+    "ascendant-apple": 1,
+    "relic-apple": 1,
+    "ethereal-apple": 1,
+    "quantum-apple": 1,
+    "celestial-apple": 1,
+    "apex-apple": 1
+  },
+
   "buyBoosts": {
     "enable": true,
     "random": true,
