@@ -12,5 +12,13 @@
   "harvestPlants": true,
   "plantSeeds": true,
   "buySeeds": true,
-  "buyBoosts": true
+  "buyBoosts": true,
+
+  "spin": {
+    "enable": true,
+    "random": true,
+    "color": "green",
+    "ap": 100,
+    "amount": 1
+  }
 }
