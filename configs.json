@@ -13,6 +13,8 @@
   "plantSeeds": true,
 
   "buySeeds": {
+    "enable": true,
+    "random": true,
     "wheat": 1,
     "lettuce": 1,
     "carrot": 1,
