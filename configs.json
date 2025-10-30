@@ -8,9 +8,9 @@
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 1,
 
-  "harvestPlants": true,
   "harvestHouseCoin": true,
-  "buySeeds": true,
+  "harvestPlants": true,
   "plantSeeds": true,
+  "buySeeds": true,
   "buyBoosts": true
 }
